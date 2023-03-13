@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+iframe{
+    height: 75vh;
+    width: 100%;
+}
+
+#history iframe{
+    height: 50vh;
+    width: 100%;
+}
